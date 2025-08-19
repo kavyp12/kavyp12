@@ -5,11 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kavyp12" alt="kavyp12" /></a> </p>
 
-- 🌱 I’m currently learning Advanced Generative AI (LLMs, Diffusion models). **Next.js & React with AI integrations ,Business automation frameworks.**
+- 🌱 I’m currently learning Advanced Generative AI (LLMs, Diffusion models). **learning Advanced Generative AI (LLMs, Diffusion models) ,Next.js & React with AI integrations ,Business automation frameworks.**
 
-- 👯 I’m looking to collaborate on AI/ML-based B2B solutions. **Creative automation tools for businesses**
+- 👯 I’m looking to **collaborate on AI/ML-based B2B solutions and Creative automation tools for businesses**
 
-- 🤝 I’m looking for help with Scaling AI models for production. **Exploring advanced multimodal AI projects.**
+- 🤝 I’m looking for help **with Scaling AI models for production and Exploring advanced multimodal AI projects.**
+
+- 💬 Ask me about **Machine Learning, Generative AI, React, and GSAP.**
 
 - 📫 How to reach me **contact@enhc.tech**
 
