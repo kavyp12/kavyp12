@@ -31,7 +31,7 @@
 | Project | What it is | Links |
 |---|---|---|
 | **Enhc Tech** | AI agency platform — Next.js 15, server-rendered, SEO-engineered | [🔗 Live](https://enhc.tech) |
-| **Rama Reality** | Full-stack real-estate app — React + Express + MongoDB, maps & AI search | [🔗 Live](https://rama-reality.vercel.app) · [💻 Code](https://github.com/kavyp12/rama_reality) |
+| **Rama Reality** | Full-stack real-estate app — React + Express + MongoDB, maps & AI search | [🔗 Live](https://ramarealty.in/) · [💻 Code](https://github.com/kavyp12/rama_reality) |
 | **kretoAI** | YouTube outlier-analytics + AI script generation — Flask + Gemini | [💻 Code](https://github.com/kavyp12/kretoAI) |
 | **Infyniq** | Chat-to-database AI assistant — React + Vite | [🔗 Live](https://infyniq.vercel.app) · [💻 Code](https://github.com/kavyp12/infyniq) |
 
