@@ -11,7 +11,7 @@
   <a href="https://www.kaggle.com/kavypatel"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
   <a href="https://www.instagram.com/kavyp_18"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="mailto:contact@enhc.tech"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://enhc.tech"><img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://kreato.ai"><img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 ---
@@ -34,7 +34,6 @@
 | **Rama Realty** | Premium residential real-estate platform (Ahmedabad) — React + Express + MongoDB | [🔗 Live](https://ramarealty.in) · [💻 Code](https://github.com/kavyp12/rama_reality) |
 | **Enhc Tech** | AI agency platform — Next.js 15, server-rendered & SEO-engineered | [🔗 Live](https://enhc.tech) |
 | **Infyniq** | Chat-to-database AI assistant — React + Vite | [🔗 Live](https://infyniq.vercel.app) · [💻 Code](https://github.com/kavyp12/infyniq) |
-
 
 ---
 
